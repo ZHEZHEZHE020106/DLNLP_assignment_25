@@ -9,7 +9,7 @@ DLNLP_assignment_25
 ├── A.py # Script for Task A: Sentiment Classification (BERT)  
 ├── B.py # Script for Task B: Emotion Classification (RoBERTa)  
 ├── main.py # Script to run both tasks
-├── datasets/  
+├── datasets  
 │ ├── sentiment140_sampled_10000_each.csv  
 │ ├── sentiment140_test_2000.csv  
 │ └── train.tsv  
